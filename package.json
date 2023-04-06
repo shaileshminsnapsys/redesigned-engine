@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shaileshminsnapsys/redesigned-engine#readme",
   "dependencies": {
-    "node": "^13.2.4"
+    "vue": "^13.2.4"
   }
 }
