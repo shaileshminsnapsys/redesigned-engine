@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/shaileshminsnapsys/redesigned-engine#readme",
   "dependencies": {
-    "next": "^13.2.4"
+    "next": "^13.2.4",
+  "nodemon": "^2.0.7"
   }
 }
