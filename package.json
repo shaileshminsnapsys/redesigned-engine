@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shaileshminsnapsys/redesigned-engine#readme",
   "dependencies": {
-     "docusaurus": "^1.14.7",
+     "docusaurus": "^1.14.7"
   }
 }
