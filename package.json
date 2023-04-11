@@ -12,6 +12,8 @@
     "clear": "docusaurus clear"
   },
   "dependencies": {
+     "next": "^13.3.0"
+
     "@docusaurus/core": "2.0.0-alpha.69",
     "@docusaurus/preset-classic": "2.0.0-alpha.69",
     "@mdx-js/react": "^1.6.21",
