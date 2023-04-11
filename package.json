@@ -12,13 +12,7 @@
     "clear": "docusaurus clear"
   },
   "dependencies": {
-     "next": "^13.3.0",
-    "@docusaurus/core": "2.0.0-alpha.69",
-    "@docusaurus/preset-classic": "2.0.0-alpha.69",
-    "@mdx-js/react": "^1.6.21",
-    "clsx": "^1.1.1",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+     "next": "^13.3.0"
   },
   "browserslist": {
     "production": [
