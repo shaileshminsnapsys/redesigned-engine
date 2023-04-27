@@ -16,6 +16,7 @@
     ]
   },
   "dependencies": {
+    "next":"",
     "middle-man": "^0.1.0",
     "middleman": "^0.1.0"
   }
