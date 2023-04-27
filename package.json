@@ -16,6 +16,6 @@
     ]
   },
   "dependencies": {
-    "docusaurus": "^1.14.7"
+    "@hydrogen-css/hydrogen": "^2.0.1"
   }
 }
