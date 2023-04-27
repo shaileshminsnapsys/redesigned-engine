@@ -16,6 +16,6 @@
     ]
   },
   "dependencies": {
-    "stencil": "^0.0.5"
+    "react": "^18.2.0"
   }
 }
