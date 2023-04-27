@@ -16,6 +16,6 @@
     ]
   },
   "dependencies": {
-    "svelte": "^3.58.0"
+    "gatsby": "^5.9.0"
   }
 }
