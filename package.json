@@ -16,6 +16,6 @@
     ]
   },
   "dependencies": {
-    "astro": "^2.3.1"
+    "docusaurus": "^1.14.7"
   }
 }
