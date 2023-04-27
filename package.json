@@ -16,6 +16,6 @@
     ]
   },
   "dependencies": {
-    "gatsby": "^5.9.0"
+    "stencil": "^0.0.5"
   }
 }
