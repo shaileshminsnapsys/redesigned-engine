@@ -16,6 +16,7 @@
     ]
   },
   "dependencies": {
-    "@hydrogen-css/hydrogen": "^2.0.1"
+    "middle-man": "^0.1.0",
+    "middleman": "^0.1.0"
   }
 }
