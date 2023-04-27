@@ -16,6 +16,6 @@
     ]
   },
   "dependencies": {
-    "nuxt": "^3.4.2"
+    "svelte": "^3.58.0"
   }
 }
