@@ -16,6 +16,6 @@
     ]
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "angular": "^1.8.3"
   }
 }
