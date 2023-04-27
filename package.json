@@ -16,6 +16,6 @@
     ]
   },
   "dependencies": {
-    "create-react-app": "^5.0.1"
+    "hexo": "^7.0.0-rc1"
   }
 }
