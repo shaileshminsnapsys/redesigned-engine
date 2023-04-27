@@ -16,6 +16,6 @@
     ]
   },
   "dependencies": {
-    "hexo": "^7.0.0-rc1"
+    "hugo": "^0.0.3"
   }
 }
