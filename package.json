@@ -16,6 +16,6 @@
     ]
   },
   "dependencies": {
-    "redwood": "^0.0.1"
+    "expo": "^48.0.15"
   }
 }
