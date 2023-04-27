@@ -16,8 +16,7 @@
     ]
   },
   "dependencies": {
-    "middle-man": "^0.1.0",
-    "middleman": "^0.1.0",
-    "next": "^13.3.1"
+    "@redwoodjs/core": "^4.5.0",
+    "middleman": "^0.1.0"
   }
 }
