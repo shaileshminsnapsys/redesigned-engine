@@ -2,12 +2,7 @@
   "name": "hello-world",
   "version": "0.0.0",
   "private": true,
-  "scripts": {
-    
-  },
-  "dependencies": {
-     "next": "^13.3.0"
-  },
+  "scripts": {},
   "browserslist": {
     "production": [
       ">0.5%",
@@ -20,7 +15,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-   
+  "dependencies": {
+    "vue": "^3.2.47"
   }
 }
